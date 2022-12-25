@@ -1,0 +1,19 @@
+
+.white{
+    color:white;
+}
+.blue{
+    color:blue;
+}
+.red{
+    color:red;
+}
+.black{
+    color:black;
+}
+body{
+    background-image:url(Lightning3.jpg);
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
